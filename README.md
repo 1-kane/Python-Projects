@@ -8,3 +8,4 @@ The contents of this repository are:
 4. Flask Web App
 5. Interactive graphs made using Bokeh
 6. Webcam Motion Detector
+7. Interactive dictionary that works on python console
